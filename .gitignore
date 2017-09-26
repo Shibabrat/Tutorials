@@ -7,7 +7,8 @@ OS generated files #
 .Trashes
 ehthumbs.db
 Thumbs.db
-*.out
+10-days-statistics/*.out
+30-days-code/*.out
 
 # Packages #
 ############
